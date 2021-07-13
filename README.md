@@ -1,6 +1,5 @@
-### Hi there 👋
+### I'm Timofeï, hello 👋
 
-I'm Timofeï.<br>
 I'm a solutions architect at <a href="https://www.fr.adp.com">ADP</a> and a biotechnology enthusiast.
 
 <!--
