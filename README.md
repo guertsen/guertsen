@@ -1,6 +1,7 @@
 ### Hello, I'm Timofei! 👋
 
-I'm a solutions architect at <a href="https://www.fr.adp.com">ADP</a> and a biotechnology enthusiast.
+I'm a solutions architect at <a href="https://www.fr.adp.com">ADP</a>.
+I'm also interested in biotechnology.
 
 <!--
 **guertsen/guertsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
