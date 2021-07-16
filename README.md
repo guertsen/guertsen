@@ -1,4 +1,4 @@
-### Hello, I'm Timofei! 👋
+### Hello! 👋
 
 I'm a solutions architect at <a href="https://www.fr.adp.com">ADP</a>.<br>
 I'm also interested in biotechnology.
