@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 - 🔭 I'm a solutions architect at <a href="https://www.fr.adp.com">ADP</a>.<br>
-- 🌱 And I'm also interested in biotechnology.
+- 🌱 I'm also interested in biotechnology.
 
 <!--
 **guertsen/guertsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
