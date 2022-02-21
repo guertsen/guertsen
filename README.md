@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 - 🔭 Solutions architect at <a href="https://www.fr.adp.com">ADP</a>.<br>
-- 🌱 I'm also interested in decentralized apps and biotechnology.
+- 🌱 Also interested in decentralized apps and biotechnology.
 
 <!--
 **guertsen/guertsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
