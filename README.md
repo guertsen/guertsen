@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🔭 Solutions architect at <a href="https://www.fr.adp.com">ADP</a>.<br>
+- 🔭 Engineer and solutions architect.
 - 🌱 Also interested in biotechnology and decentralized apps.
 
 <!--
